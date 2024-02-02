@@ -1,5 +1,5 @@
 @extends('master')
-@section('title', 'Catalog-Z Bootstrap 5.0 HTML Template')
+@section('title', 'Products')
 
 
 @section('content')

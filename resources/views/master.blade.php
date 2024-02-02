@@ -16,8 +16,7 @@
     <body>
         <header>
             <h1 class="site-heading text-center text-faded d-none d-lg-block">
-                <span class="site-heading-upper text-primary mb-3">A Free Bootstrap Business Theme</span>
-                <span class="site-heading-lower">Business Casual</span>
+                <span class="site-heading-lower ">Volf's bakery</span>
             </h1>
         </header>
         <!-- Navigation-->
@@ -30,7 +29,7 @@
                         <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="home">Home</a></li>
                         <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="about">About</a></li>
                         <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="products">Products</a></li>
-                        <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="store">Store</a></li>
+                        <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="store">Opening hours</a></li>
                         <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="contact">Contact</a></li>
                     </ul>
                 </div>

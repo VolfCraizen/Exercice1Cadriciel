@@ -1,6 +1,5 @@
 @extends('master')
-@section('title', 'Catalog-Z Bootstrap 5.0 HTML Template')
-
+@section('title', 'About')
 
 @section('content')
 
@@ -12,14 +11,14 @@
                         <div class="col-xl-9 col-lg-10 mx-auto">
                             <div class="bg-faded rounded p-5">
                                 <h2 class="section-heading mb-4">
-                                    <span class="section-heading-upper">Strong Coffee, Strong Roots</span>
-                                    <span class="section-heading-lower">About Our Cafe</span>
+                                    <span class="section-heading-upper">Strong Pastries, Strong Roots</span>
+                                    <span class="section-heading-lower">About Our Pastries</span>
                                 </h2>
-                                <p>Founded in 1987 by the Hernandez brothers, our establishment has been serving up rich coffee sourced from artisan farmers in various regions of South and Central America. We are dedicated to travelling the world, finding the best coffee, and bringing back to you here in our cafe.</p>
+                                <p>Founded in 1987 by the Craizen brothers, our establishment has been serving up rich pastries with ingredients sourced from artisan farmers in various regions of South and Central America. We are dedicated to travelling the world, finding the best ingredients, and bringing them back to you here in our pastries.</p>
                                 <p class="mb-0">
                                     We guarantee that you will fall in
-                                    <em>lust</em>
-                                    with our decadent blends the moment you walk inside until you finish your last sip. Join us for your daily routine, an outing with friends, or simply just to enjoy some alone time.
+                                    <em>love</em>
+                                    with our decadent blends the moment you walk inside until you finish your last bite. Join us for your daily routine, an outing with friends, or simply just to enjoy some alone time.
                                 </p>
                             </div>
                         </div>
