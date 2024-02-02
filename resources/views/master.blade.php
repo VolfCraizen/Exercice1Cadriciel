@@ -31,6 +31,7 @@
                         <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="about">About</a></li>
                         <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="products">Products</a></li>
                         <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="store">Store</a></li>
+                        <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="contact">Contact</a></li>
                     </ul>
                 </div>
             </div>

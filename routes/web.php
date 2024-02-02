@@ -24,3 +24,4 @@ Route::get('/about', [PieController::class, 'about']);
 Route::get('/products', [PieController::class, 'products']);
 Route::get('/store', [PieController::class, 'store']);
 Route::get('/contact', [PieController::class, 'contact']);
+Route::post('/contact',[PieController::class, 'contactForm']);

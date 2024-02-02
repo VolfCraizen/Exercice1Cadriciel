@@ -25,4 +25,8 @@ class PieController extends Controller
     public function contact(){
         return view('pie-contact');
     }
+
+    public function contactForm(Request $request){
+        return view('pie-contact', ['data' => $request]);
+     }
 }
