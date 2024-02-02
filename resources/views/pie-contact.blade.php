@@ -9,6 +9,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-9 mx-auto">
+                    <h2 class="section-heading mb-5">Contact us!</h2>
                     <div class="cta-inner bg-faded text-center rounded">
                     @isset($data)
                         <p><strong>Name: </strong>{{ $data->name }}</p>
