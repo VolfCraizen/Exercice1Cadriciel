@@ -19,6 +19,9 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+/**
+ * Routes url
+ */
 Route::get('/home', [PieController::class, 'home']);
 Route::get('/about', [PieController::class, 'about']);
 Route::get('/products', [PieController::class, 'products']);
